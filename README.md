@@ -9,4 +9,4 @@ IF firstNumber > secondNumber THEN WRITE firstNumber
 ELSE WRITE secondNumber
 END
 ```
-![Example01 Flowchart](/example01.png "Example01 Flowchart")
+![Example01 Flowchart](/image/example01.png "Example01 Flowchart")
