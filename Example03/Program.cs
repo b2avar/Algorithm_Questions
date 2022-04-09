@@ -7,12 +7,19 @@ namespace Example03
         static void Main(string[] args)
         {
             // Example03
-            //Design the algorithm and flowchart to find whether the given
-            //integer is zero, positive, or negative.
+            // Design the algorithm and flowchart to find whether the given
+            // integer is zero, positive, or negative.
 
+            // Variables
+            int number;
+
+            // read number
             Console.WriteLine("Please enter a number :");
-            int number = int.Parse(Console.ReadLine());
+            // converting to integer type
+            number = int.Parse(Console.ReadLine());
 
+
+            // number control
             if (number == 0)
             {
                 Console.WriteLine("The number you entered is equal to zero");
