@@ -7,10 +7,10 @@ namespace Example01
         static void Main(string[] args)
         {
             // Example01
-            // Birbirinden farklı olarak verilen iki adet sayıdan, büyük olanı
-            // bulup gösteren algoritma ve akış diyagramını tasarlayınız.
+            // Design an algorithm and flowchart that finds and shows the larger
+            // of two numbers given different from each other.
 
-            // variables
+            // Variables
             int firstNumber, secondNumber, bigNumber;
 
             // First number
