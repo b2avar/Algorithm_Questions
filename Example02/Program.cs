@@ -54,11 +54,11 @@ namespace Example02
         {
             if (average >= 60)
             {
-                Console.WriteLine("You passed the course");
+                Console.WriteLine("You passed the course.");
             }
             else
             {
-                Console.WriteLine("You failed the course");
+                Console.WriteLine("You failed the course.");
             }
         }
     }
