@@ -19,7 +19,10 @@ namespace Example04
             ReturName(name);
         }
 
-        // name return method
+        /// <summary>
+        /// Returns string variable 10 times
+        /// </summary>
+        /// <param name="name">variable to return</param>
         static void ReturName(string name)
         {
             for (int i = 0; i < 10; i++)
