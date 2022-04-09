@@ -11,7 +11,7 @@ IF firstNumber > secondNumber THEN WRITE firstNumber
 ELSE WRITE secondNumber
 END
 ```
-![Example01 Flowchart](/image/example01.png "Example01 Flowchart")
+![Example02 Flowchart](/image/example01.png "Example02 Flowchart")
 
 <h1>Example02</h1>
 <p>Design the algorithm and flowchart that finds out whether the student has passed the course according to the midterm and final grades.</p>
@@ -31,3 +31,20 @@ COURSE STATUS  CourseStatus(average)
 END                  
 ```
 ![Example01 Flowchart](/image/example02.png "Example01 Flowchart")
+
+<h1>Example03</h1>
+<p>Design the algorithm and flowchart to find whether the given integer is zero, positive, or negative.</p>
+
+```
+START
+WRITE ("Please enter a number :")
+READ number
+IF number == 0 WRITE "The number you entered is equal to zero"
+ELSE IF number < 0 WRITE "The number you entered is a negative number."
+ELSE IF number > 0 WRITE "The number you entered is a positive number"
+BİTİR
+```
+
+![Example03 Flowchart](/image/example03.png "Example03 Flowchart")
+
+
