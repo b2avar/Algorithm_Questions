@@ -45,6 +45,6 @@ ELSE IF number > 0 WRITE "The number you entered is a positive number"
 BİTİR
 ```
 
-![Example03 Flowchart](/image/example03.png "Example03 Flowchart")
+![Example03 Flowchart](/image/example04.png "Example03 Flowchart")
 
 
